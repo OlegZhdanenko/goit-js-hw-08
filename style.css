@@ -21,4 +21,7 @@ a{
 img{
     width: 400px;
     height:220px;
-}
+};
+.modal-img{
+background-color: grey;
+};

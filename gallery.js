@@ -105,7 +105,7 @@ function onClick(event) {
 
     if (largeImg) {
         const instance = basicLightbox.create(`
-        <img width="1400" height="900" src="${largeImg}">
+        <img class="modal-img" width="1400" height="900" src="${largeImg}">
         `);
         instance.show();
     
